@@ -3,6 +3,7 @@
 _great results are born of great passion._
 
 ## Rituals
+
 - [ ] Training
 - [ ] Eat 3 meals
 - [ ] Hygiene
@@ -14,7 +15,7 @@ _great results are born of great passion._
 - [ ] Sleep 7 hours
 
 ## Tasks
-- [ ] 
+
+- [ ]
 
 ## Journal
-

@@ -3,11 +3,10 @@ title: "Welcome to my Digital Garden"
 date: 2024-03-04
 description: "A personal digital garden where I share my thoughts, writings, and projects"
 tags:
-  - home
-  - digital-garden
+- home
+- digital-garden
 permalink: /
 ---
-
 # Welcome to darukavana
 
 > "great results are born of great passion." ~ chaitanya

@@ -312,7 +312,7 @@ rapidly evolving field. Remember that AI engineering is a multidisciplinary fiel
 theoretical knowledge, practical skills, and a passion for innovation. By embracing these elements, you can
 successfully navigate your AI engineering journey and contribute to the exciting future of AI
 
-#### **Works cited**
+### **Works cited**
 
 1\. Top 16 Best Resources Online to Learn Machine Learning in 2021 \- Kaggle, accessed on March 4, 2025, [https://www.kaggle.com/general/274909](https://www.kaggle.com/general/274909)
 2\. Deep Learning: Top 10 Resources for Beginners \- RE•WORK Blog, accessed on March 4, 2025,
