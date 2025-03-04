@@ -1,11 +1,13 @@
 # AWS for AI Engineering
 
 ## Introduction
+
 Amazon Web Services (AWS) provides a comprehensive suite of tools and services for building, training, and deploying AI models. This guide covers the essential AWS services for AI engineering.
 
 ## Topics Covered
 
 ### 1. [[aws-core-ai-services|Core AI Services]]
+
 - [[amazon-sagemaker|Amazon SageMaker]]
   - [[model-building-training|Model building and training]]
   - [[model-deployment|Model deployment]]
@@ -17,6 +19,7 @@ Amazon Web Services (AWS) provides a comprehensive suite of tools and services f
   - [[ai-powered-development|AI-powered development assistant]]
 
 ### 2. [[aws-infrastructure-services|Infrastructure Services]]
+
 - [[aws-ec2|AWS EC2 (Elastic Compute Cloud)]]
   - [[compute-resources|Compute resources]]
   - [[gpu-instances|GPU instances]]
@@ -33,6 +36,7 @@ Amazon Web Services (AWS) provides a comprehensive suite of tools and services f
 ## Learning Resources
 
 ### Documentation and Guides
+
 - [AWS AI/ML Documentation](https://aws.amazon.com/ai/)
 - [Amazon SageMaker Documentation](https://docs.aws.amazon.com/sagemaker/)
 - [Amazon Bedrock Documentation](https://docs.aws.amazon.com/bedrock/)
@@ -42,6 +46,7 @@ Amazon Web Services (AWS) provides a comprehensive suite of tools and services f
 - [AWS VPC Documentation](https://docs.aws.amazon.com/vpc/)
 
 ### Courses and Tutorials
+
 - [AWS Machine Learning Training](https://aws.amazon.com/training/learning-paths/machine-learning/)
 - [AWS AI/ML Solutions Lab](https://aws.amazon.com/machine-learning/solutions-lab/)
-- [AWS AI/ML Blog](https://aws.amazon.com/blogs/machine-learning/) 
+- [AWS AI/ML Blog](https://aws.amazon.com/blogs/machine-learning/)

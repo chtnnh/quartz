@@ -11,7 +11,7 @@ tags:
 permalink: /projects/tracker
 ---
 
-# Projects Tracker
+## Projects Tracker
 
 ## tech
 
@@ -25,14 +25,23 @@ permalink: /projects/tracker
   - writing
   - editing
   - manuscript publish
+  - writing
+  - editing
+  - manuscript publish
 - 3415: Volume 1 marketing
 - 3415: Volume 2 writing
 
 ## personal
 
-- https://www.chtnnh.site
+- <https://www.chtnnh.site>
 - obsidian customization
 - digital life optimization
+  - cloud backups
+  - cloud data deletes
+  - social media profiles
+  - personal (work-related) identity
+  - personal (work-related) discovery
+  - software subscriptions
   - cloud backups
   - cloud data deletes
   - social media profiles
@@ -44,6 +53,12 @@ permalink: /projects/tracker
   - taxation
   - savings
   - investments
+  - trackers (everywhere, thank you)
+  - taxation
+  - savings
+  - investments
 - learning
+  - reading non-fiction
+  - listening to podcasts
   - reading non-fiction
   - listening to podcasts
