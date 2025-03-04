@@ -1,18 +1,23 @@
-# Quartz v4
+# darukavana
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+_second brain, second attempt._
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+## Usage
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+1. Clone the repository `git clone git@github.com:chtnnh/darukavana`
+2. Install [Obsidian](https://obsidian.md) and open this folder as a workspace
+3. Navigate to `learning/ai/roadmap.md`
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+## Navigation
 
-## Sponsors
+All open tasks will be in [[journal/living]], they will be transferred to daily notes when they are completed.
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+The rest of the vault is notes about the rest of my life.
+
+## Author
+
+© Chaitanya Mittal, 2025
+
+## Credits
+
+Built with Quartz V4

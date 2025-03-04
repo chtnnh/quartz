@@ -16,8 +16,8 @@ permalink: /projects/tracker
 ## tech
 
 - djDemocracy
-- "contacts" app
-- leaf
+- AI Learning
+- [music](https://instagram.com/chtnyh)
 
 ## writing
 
