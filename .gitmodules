@@ -1,0 +1,6 @@
+[submodule "content"]
+	path = content
+	url = git@github.com:chtnnh/darukavana
+[submodule "darukavana"]
+	path = darukavana
+	url = git@github.com:chtnnh/darukavana
