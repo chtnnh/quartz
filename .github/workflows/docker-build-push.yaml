@@ -23,7 +23,7 @@ jobs:
           OWNER: "${{ github.repository_owner }}"
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 1
+          fetch-depth: 2147483647 # https://stackoverflow.com/questions/28001878/git-fetch-unshallow-gives-fatal-unshallow-on-a-complete-repository-does-n
           submodules: true
       - name: Inject slug/short variables
         uses: rlespinasse/github-slug-action@v5.1.0
